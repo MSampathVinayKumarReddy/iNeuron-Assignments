@@ -1,3 +1,3 @@
 # iNeuron-Assignments
 
-All the assignments regarding iNeuron ML AND DL course
+All the assignments of iNeuron ML AND DL with Deployment course
